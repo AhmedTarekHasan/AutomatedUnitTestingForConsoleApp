@@ -1,10 +1,10 @@
-<link rel="canonical" href="https://itnext.io/how-to-fully-cover-net-c-console-application-with-unit-tests-446927a4a793?sk=63c75b56de78903f09f0d0116df5fe3a" />
+<link rel="canonical" href="https://www.developmentsimplyput.com/post/how-to-fully-cover-net-c-console-application-with-unit-tests" />
 
 # How to Fully Cover .NET C# Console Application With Unit Tests
 ### Best Practice to achieve 100% coverage using Test Driven Development (TDD), Dependency Injection (DI), Inversion of Control (IoC), and IoC Containers.
 
 <p align="center">
-  <img src="https://miro.medium.com/max/2000/1*nHnTjZPRza97euuLBP7wIw.jpeg">
+  <img src="https://static.wixstatic.com/media/488a99_f2bce10f9f33425d86923a378077f8e3~mv2.png/v1/fill/w_828,h_552,al_c,q_90,enc_auto/488a99_f2bce10f9f33425d86923a378077f8e3~mv2.png">
 </p>
 
 <br/>
@@ -49,4 +49,4 @@ If you are interested into reading more about this topic, you can read [the rest
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
 [Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
 [Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
-[Article]: https://itnext.io/how-to-fully-cover-net-c-console-application-with-unit-tests-446927a4a793?sk=63c75b56de78903f09f0d0116df5fe3a
+[Article]: https://www.developmentsimplyput.com/post/how-to-fully-cover-net-c-console-application-with-unit-tests
